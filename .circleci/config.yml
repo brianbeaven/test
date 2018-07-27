@@ -1,7 +1,6 @@
 # CircleCI Config File
 version: 2
 jobs:
-  build:
     test:
       machine: true
       steps: 
